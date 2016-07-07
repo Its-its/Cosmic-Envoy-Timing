@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CosmicEnvoy",
+  "name": "Cosmic Envoy Timer",
+  "description": "For cosmic envoys.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Its_its"],
+  "credits": "Its_its, its_its, ITS_ITS",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
